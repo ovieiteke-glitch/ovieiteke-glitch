@@ -48,9 +48,9 @@ I'm a passionate Software Engineer learning Javascript, Css, HTML, and React. I 
 💬 I’m inspired by how technology bridges creativity and problem-solving. The ability to turn an idea into something real, interactive, and impactful keeps me motivated to learn more every day.
 ## Get in Touch 📬
 
-<p align="center"> <a href="https://linkedin.com/in/ovie-iteke-601192131/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:ovie.iteke@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+🌍 Connect with Me
+- **[LinkedIn]**(https://www.linkedin.com/in/ovie-iteke-601192131/)
+- **[Twitter]**(https://x.com/ovieiteke)
 
-- (https://www.linkedin.com/in/ovie-iteke-601192131/)
-- https://x.com/ovieiteke
-
+<div align="center"> <h3>✨ “Code. Create. Inspire.” ✨</h3> </div>
 
